@@ -1,0 +1,14 @@
+.productContainer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 10px;
+    gap:56px;
+}
+
+.serach-header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 250px;
+}
